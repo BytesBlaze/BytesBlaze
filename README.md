@@ -53,7 +53,7 @@
 <br><br>
 <br><br>
 <br><br>
-<br><br>
+<br>
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=bytesblaze&show_icons=true&locale=en" alt="bytesblaze" />
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=bytesblaze&" alt="bytesblaze" />
