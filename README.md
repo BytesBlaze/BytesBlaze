@@ -12,9 +12,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kunal-kumar-384613249" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/2560px-LinkedIn_Logo.svg.png" alt="kunal-kumar-384613249" height="25"/></a>&emsp;
-<a href="https://www.leetcode.com/bytesblaze" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/LeetCode_Logo_black_with_text.svg/2560px-LeetCode_Logo_black_with_text.svg.png" alt="bytesblaze" height="25" /></a>&emsp;
-<a href="https://codeforces.com/profile/b055" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Codeforces_logo.svg/2560px-Codeforces_logo.svg.png" alt="b055" height="25"  /></a>
+<a href="https://linkedin.com/in/kunal-kumar-384613249" target="blank"><img align="center" src="https://logos-world.net/wp-content/uploads/2020/04/Linkedin-Logo.png" alt="kunal-kumar-384613249" height="50"/></a>&emsp;
+<a href="https://www.leetcode.com/bytesblaze" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/leetcode_button_icon_151892.png" alt="bytesblaze" height="25" /></a>&emsp;
+<a href="https://codeforces.com/profile/b055" target="blank"><img align="center" src="https://camo.githubusercontent.com/708669c19f5660b1b1c1e14846cece7ecd27363da159841d3abbbc8e88fbb986/68747470733a2f2f6173736574732e636f6465666f726365732e636f6d2f75736572732f6b6775736576612f636f6d6d656e74732f63662e706e67" alt="b055" height="25"  /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -33,7 +33,7 @@
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://www.edureka.co/blog/wp-content/uploads/2019/07/express-logo.png" alt="Express.js" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
