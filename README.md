@@ -47,9 +47,5 @@
 
 </td></tr></table>  
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bytesblaze&show_icons=true&locale=en&layout=compact" alt="bytesblaze" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bytesblaze&show_icons=true&locale=en" alt="bytesblaze" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bytesblaze&" alt="bytesblaze" /></p>
+<div><img align="left" src="https://github-readme-stats.vercel.app/api?username=bytesblaze&show_icons=true&locale=en" alt="bytesblaze" />
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=bytesblaze&" alt="bytesblaze" /></div>
