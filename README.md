@@ -12,9 +12,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kunal-kumar-384613249" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="kunal-kumar-384613249"/></a>
-<a href="https://www.leetcode.com/bytesblaze" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bytesblaze" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/b055" target="blank"><img align="center" src="https://raw.githubusercontent.com/npanuhin/Artwork/5912014b9f689fef823e5ab6fc823f3419a4c0cc/SVG/Codeforces/Codeforces.colored.svg" alt="b055" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kunal-kumar-384613249" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="kunal-kumar-384613249"/></a>&emsp;
+<a href="https://www.leetcode.com/bytesblaze" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/LeetCode_Logo_black_with_text.svg/2560px-LeetCode_Logo_black_with_text.svg.png" alt="bytesblaze" height="25" /></a>&emsp;
+<a href="https://codeforces.com/profile/b055" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Codeforces_logo.svg/2560px-Codeforces_logo.svg.png" alt="b055" height="25"  /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
