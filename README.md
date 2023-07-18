@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kunal-kumar-384613249" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="kunal-kumar-384613249"/></a>&emsp;
+<a href="https://linkedin.com/in/kunal-kumar-384613249" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/2560px-LinkedIn_Logo.svg.png" alt="kunal-kumar-384613249" height="25"/></a>&emsp;
 <a href="https://www.leetcode.com/bytesblaze" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/LeetCode_Logo_black_with_text.svg/2560px-LeetCode_Logo_black_with_text.svg.png" alt="bytesblaze" height="25" /></a>&emsp;
 <a href="https://codeforces.com/profile/b055" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Codeforces_logo.svg/2560px-Codeforces_logo.svg.png" alt="b055" height="25"  /></a>
 </p>
