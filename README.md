@@ -56,6 +56,6 @@
 <h3>Statistics:</h3>
 <div>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=bytesblaze&show_icons=true&locale=en" alt="bytesblaze" />
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=bytesblaze&" alt="bytesblaze" />
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=bytesblaze&" alt="bytesblaze" />
 </div>
 <br>
