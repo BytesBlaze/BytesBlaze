@@ -48,6 +48,6 @@
 </td></tr></table>  
 <h3>Statistics:</h3>
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bytesblaze&show_icons=true&locale=en&layout=compact" alt="bytesblaze" /></p>
-  <img src="https://github-readme-stats.vercel.app/api?username=bytesblaze&show_icons=true&locale=en" alt="bytesblaze" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CodesByKunal&show_icons=true&locale=en&layout=compact" alt="CodesByKunal" /></p>
+  <img src="https://github-readme-stats.vercel.app/api?username=CodesByKunal&show_icons=true&locale=en" alt="CodeByKunal" />
 </div>
