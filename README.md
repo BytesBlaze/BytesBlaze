@@ -8,7 +8,7 @@
 
 - 📫 You can reach me at **kunal8055@outlook.in**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/15wZWrKZVmiFsgYXn0--0w5y_IE4BLW2L/view?usp=sharing">here</a>
+- 📄 Know about my experiences <a href="https://docs.google.com/document/d/1fdY7zZ2CkD_FJXzuqBc_B3Nxxo2osILyfx_kZ2npcMA/edit?usp=sharing">here</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
