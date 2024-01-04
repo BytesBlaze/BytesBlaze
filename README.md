@@ -16,8 +16,9 @@
 + 📄 Know about my experiences [here](https://docs.google.com/document/d/1fdY7zZ2CkD_FJXzuqBc_B3Nxxo2osILyfx_kZ2npcMA/edit?usp=sharing)
   
 ## Connect with me
-| [<img src="https://i.imgur.com/WwDcsTH.png" height="50"/>](https://linkedin.com/in/kunal-kumar-384613249) | [`LeetCode`](https://www.leetcode.com/bytesblaze) | [`CodeForce`](https://codeforces.com/profile/CodesByKunal) |
-| - | - | - |
+|`Linkedin`|`LeetCode`|`Codeforce`|
+|:-:|:-:|:-:|
+| [<img src="https://i.imgur.com/WwDcsTH.png" height="50"/>](https://linkedin.com/in/kunal-kumar-384613249) | [<img src="https://i.imgur.com/cNDHZsY.png" height="50"/>](https://www.leetcode.com/bytesblaze) | [<img src="https://i.imgur.com/cDFWpN1.png" height="50"/>](https://codeforces.com/profile/CodesByKunal) |
 
 ## Tools and Technology
 
