@@ -20,13 +20,26 @@
 | - | - | - |
 
 ## Tools and Technology
-|||||
-|:-:|-|-|-|
+
+|`JavaScript`|`React`|`Node Js`|`Tailwind`|
+|:-:|:-:|:-:|:-:|
 |<img src="https://i.imgur.com/65D17XD.png" height="50" />|<img src="https://i.imgur.com/bMU0kgU.png" height="50" />|<img src="https://i.imgur.com/SUEH8vw.png" height="50" />|<img src="https://i.imgur.com/okK2H1G.png" height="50"/>|
+
+|`Python`|`Redux`|`Express Js`|`BootStrap`|
+|:-:|:-:|:-:|:-:|
 |<img src="https://i.imgur.com/9L3vk3H.png" height="50"/>|<img src="https://i.imgur.com/hy0IXjH.png" height="50" />|<img src="https://i.imgur.com/UWZEhx4.png" height="50"/>|<img src="https://i.imgur.com/dZJL56V.png" height="50"/>|
-|<img src="https://i.imgur.com/w9cX7Wp.png" height="50"/>|<img src="https://www.svgrepo.com/show/342062/next-js.svg" height="50"/>|<img src="https://i.imgur.com/TMPr1TJ.png" height="50"/>|<img src="https://i.imgur.com/Di4Ib7U.png" height="50"/>|
-|<img src="https://i.imgur.com/HAL4X2C.png" height="50" />|<img src="https://www.svgrepo.com/show/354262/react-router.svg"  height="50"/>|<img src="https://i.imgur.com/LE2SuJV.png" height="50" />|<img src="https://i.imgur.com/NuLQw8v.png" height="50" />|
-|<img src="https://i.imgur.com/NJ5Rimn.png" height="50"/>||||
+
+|`C++`|`React Router`|`Mongoose`|`CSS`|
+|:-:|:-:|:-:|:-:|
+|<img src="https://i.imgur.com/w9cX7Wp.png" height="50"/>|<img src="https://www.svgrepo.com/show/354262/react-router.svg" height="50"/>|<img src="https://i.imgur.com/TMPr1TJ.png" height="50"/>|<img src="https://i.imgur.com/Di4Ib7U.png" height="50"/>|
+
+|`  HTML5  `|`  NextJs  `|`  NGINX  `|`  MongoDB  `|
+|:-:|:-:|:-:|:-:|
+|<img src="https://i.imgur.com/HAL4X2C.png" height="50" />|<img src="https://www.svgrepo.com/show/342062/next-js.svg"  height="50"/>|<img src="https://i.imgur.com/LE2SuJV.png" height="50" />|<img src="https://i.imgur.com/NJ5Rimn.png" height="50" />|
+
+|`Postman`|
+|:-:|
+|<img src="https://i.imgur.com/NuLQw8v.png" height="50"/>|
 
 ## Statistics
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=CodesByKunal&show_icons=true&locale=en&layout=compact)
