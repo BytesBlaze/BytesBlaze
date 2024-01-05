@@ -13,7 +13,7 @@
   
 + 📫 You can reach me at **kunal8055@outlook.in**
   
-+ 📄 Know about my experiences [here](href="https://docs.google.com/document/d/1fdY7zZ2CkD_FJXzuqBc_B3Nxxo2osILyfx_kZ2npcMA/edit?usp=sharing)
++ 📄 Know about my experiences [here](https://docs.google.com/document/d/1fdY7zZ2CkD_FJXzuqBc_B3Nxxo2osILyfx_kZ2npcMA/edit?usp=sharing)
   
 ## Connect with me
 |`Linkedin`|`LeetCode`|`Codeforce`|
