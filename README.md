@@ -1,6 +1,6 @@
 ----
 
-![Welcome Banner](Github_Readme_Banner.gif)
+![Welcome Banner](./Github_Readme_Banner.gif)
 
 ----
 
