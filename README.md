@@ -32,7 +32,7 @@
 
 |`Node.js`|`Express.js`|`Next.js`|
 |:-:|:-:|:-:|
-|<img src="https://i.imgur.com/SUEH8vw.png" height="50" />|<img src="https://i.imgur.com/UWZEhx4.png" height="50"/>|<img src="https://www.svgrepo.com/show/342062/next-js.svg"  height="50"/>|
+|<img src="https://i.imgur.com/SUEH8vw.png" height="50" />|<img src="https://i.imgur.com/UWZEhx4.png" height="50"/>|<img src="https://i.imgur.com/RzGKeBt.png"  height="50"/>|
 
 |`MongoDB`|`Mongoose`|`NGINX`|
 |:-:|:-:|:-:|
