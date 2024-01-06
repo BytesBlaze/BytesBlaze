@@ -46,10 +46,13 @@
 |:-:|:-:|:-:|
 |<img src="https://i.imgur.com/9L3vk3H.png" height="50"/>|<img src="https://i.imgur.com/w9cX7Wp.png" height="50"/>|<img src="https://i.imgur.com/xmX7z1J.png" height="50"/>|
 
-|`TypeScript`|`Linux`|
-|:-:|:-:|
-|<img src="https://i.imgur.com/SYxueuK.png" height="50"/>|<img src="https://i.imgur.com/IN6n2sH.png" height="50"/>|
+|`TypeScript`|`Linux`|`Graphql`|
+|:-:|:-:|:-:|
+|<img src="https://i.imgur.com/SYxueuK.png" height="50"/>|<img src="https://i.imgur.com/IN6n2sH.png" height="50"/>|<img src="https://i.imgur.com/HFrcWhA.png" height="50"/>|
 
+|`Firebase`|
+|:-:|
+|<img src="https://i.imgur.com/ci35Wt7.png" height="50"/>|
 
 ## Statistics
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=CodesByKunal&show_icons=true&locale=en&layout=compact)
