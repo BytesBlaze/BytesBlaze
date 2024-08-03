@@ -6,8 +6,8 @@
 
 # Hi 👋, I'm Kunal Kumar
 
-## A Passionate DevSecOps Engineer and Full Stack Developer
-+ 👨‍🎓 Currently pursuing **Int. MTech (Cyber Security) at Vellore Institute of Technology, Bhopal.**
+## A Passionate DevOps Engineer and Building Scalable Backend
++ 👨‍🎓 Currently pursuing **Integrated MTech at Vellore Institute of Technology, Bhopal.**
   
 + 🌩️ Ask me about **JavaScript, C++, Python, System Design, React Js, Node Js, Express Js, MongoDB and more...**
   
@@ -53,12 +53,3 @@
 |`Firebase`|
 |:-:|
 |<img src="https://i.imgur.com/ci35Wt7.png" height="50"/>|
-
-## Statistics
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodesByKunal&layout=donut&theme=great-gatsby" alt="abhiyank51" "/></p>
-
-<p><img align="center" src ="https://github-readme-stats.vercel.app/api?username=CodesByKunal&show_icons=true&theme=great-gatsby"/></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CodesByKunal&theme=great-gatsby" alt="abhiyank51" /></p>
-
-[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CodesByKunal&bg_color=ffffff&color=ff047d&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/CodesByKunal/github-readme-activity-graph)
